@@ -39,6 +39,11 @@ TMNRR/
 Multi-view datasets can be found in the conference version of the repository
 
 
+
+
+
+
+
 # Trusted Multi-view Learning under Noisy Supervision
 
 本文是我们将发表在 IJCAI 2024上的论文 Trusted Multi-view Learning with label noise 的期刊扩展版本。我们对原有方法进行了改进和扩展，并进行了更全面的实验验证。稿件仍在投稿和评审过程中。
